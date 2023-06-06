@@ -20,8 +20,9 @@
 ## Nessa  imagem o recibo das compras.
   ![rebibo](https://github.com/SamuelBarbosa1/Cafeteria/assets/130667350/95a25488-951b-489b-b295-b625cf154ea2)
 
- ## Em cima do recibo tem 8 alternativas, o papel em branco é para zerar o recibo, o da pasta é para colocar o recibo, o print e para printar o recibo
- ## o da impresora é para imprir o recibo e por ai em diante.
+ ## Em cima do recibo tem 8 alternativas.
+ O papel em branco é para zerar o recibo, o da pasta é para colocar o recibo, o print e para printar o recibo
+ o da impresora é para imprimir o recibo e por ai em diante.
   
 ## Aqui você pode salvar o recibo ou até imprimir.
   ![Salvando recibo](https://github.com/SamuelBarbosa1/Cafeteria/assets/130667350/25998d1d-e35f-485c-906b-92e03253a164)
