@@ -1,8 +1,10 @@
 # Cafeteria do Samuel
 
 ## Tecnologia usada :computer:
-<div style="display: inline_block">
-</a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+ <div style="display: inline_block">
+</a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
+
   
 ## Como funciona
   Você escolhe qual café, chá ou bolo você quer comprar, ali em baixo tem taxa do bolo, bebida e do serviço em geral!
